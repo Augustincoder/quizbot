@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher
 from storage import init_storage
 import bot as bot_module
 
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
+BOT_TOKEN = "8764719096:AAEvBC8vhurWPDrUCBHOCTjFMrbv-pZ2Yak"
 
 async def main():
     # 1. Load/Scrape Data into Memory BEFORE bot starts
